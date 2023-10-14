@@ -1,4 +1,4 @@
-baseurl = "https://agomezguru.github.io/cti-tech"
+baseurl = "https://blog.coati.com.mx/"
 title = "COATI Tech"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -35,7 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Cloud-native Software solutions tailored for small and medium-sized businesses"
+  sidebar_about_description = "Cloud-native software solutions tailored for startups, small and medium-sized businesses"
   sidebar_avatar = "img/logo_120x120.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = false 
@@ -105,7 +105,7 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "/cti-tech/about"
+  href =  "/about"
 
 [outputFormats.Algolia]
 baseName = "algolia"
