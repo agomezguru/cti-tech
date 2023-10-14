@@ -13,15 +13,15 @@ categories:  ["Business" ]
 
 ## Table of Contents
 
-1. What to know about Mexico?
-1. An overview of outsourcing software development to Mexico
-1. Advantages of outsourcing software development to Mexico
-1. What to watch out for when working with Mexican engineers?
-1. Disadvantages of distance outsourcing
-1. The cost of hiring remote developers from Mexico
-1. Remote Mexican developers engagement types
-1. Outsourcing software development to Mexico: FAQ
-1. Key Takeaways
+1. [What to know about Mexico?](#what-to-know-about-mexico)
+1. [An overview of outsourcing software development to Mexico](#an-overview-of-outsourcing-software-development-to-mexico)
+1. [Advantages of outsourcing software development to Mexico](#advantages-of-outsourcing-software-development-to-mexico)
+1. [What to watch out for when working with Mexican engineers?](#what-to-watch-out-for-when-working-with-mexican-engineers)
+1. [Disadvantages of distance outsourcing](#disadvantages-of-distance-outsourcing)
+1. [The cost of hiring remote developers from Mexico](#the-cost-of-hiring-remote-developers-from-mexico)
+1. [Remote Mexican developers engagement types](#remote-mexican-developers-engagement-types)
+1. [Outsourcing software development to Mexico: FAQ](#outsourcing-software-development-to-mexico-faq)
+1. [Key Takeaways](#key-takeaways)
 
 ## What to know about Mexico?
 
@@ -47,7 +47,7 @@ categories:  ["Business" ]
 
 ⁽*⁵⁾ according to The World Bank Doing Business 2020 report.
 
-![mexico](/img/mexico.jpg)
+![mexico](mexico.jpg)
 
 ## An overview of outsourcing software development to Mexico
 
@@ -77,7 +77,7 @@ In high schools across Mexico, STEM subjects are increasingly popular. Numerous 
 
 Mexico is making a great effort to create a talent pipeline from school onwards that can support a strong and diverse tech sector and meet the needs of technology partners, clients, and employers in the U.S.
 
-![mexico](/img/UniAnahuacOax.png)
+![mexico](UniAnahuacOax.png)
 
 Source: _Webpage Anahuac University Campus Oaxaca_
 
@@ -99,7 +99,7 @@ Under the Trump administration, it was increasingly difficult for Mexicans to ob
 
 It’s true that drug gang violence in some regions—nowhere near the technology parks—often makes the headlines in the U.S. However, for the most part, the Mexican government is stable and pro-business, with a stable and strong economy.
 
-![coworking](/img/coworking-oax.png)
+![coworking](coworking-oax.png)
 
 Source: _[www.coworker.com](https://www.coworker.com/mexico/oaxaca/centrico-coworking)_
 
@@ -107,13 +107,13 @@ Source: _[www.coworker.com](https://www.coworker.com/mexico/oaxaca/centrico-cowo
 
 Nearshore software development in Mexico is far easier than working with an outsourcing team in India, China, Indonesia, or anywhere else in Asia. It is in or near most U.S. time zones. Close enough for everyone on both sides of an email, Skype, Slack, Telegram, or whatever collaboration tool you prefer to engage in real-time calls and exchanges.
 
-![mexico-time-zones](/img/mexico_time_zones.png)
+![mexico-time-zones](mexico_time_zones.png)
 
 Flying to Mexico from the U.S. isn’t a huge ordeal either. With over 300 flights daily, you can meet in person, or a nearshore outsourcing partner can fly up and meet your team. Compared to India, where flying time can take up to 30 hours (depending on where you’re flying to and from), it takes less than 6 hours from most mainland U.S. airports.
 
 Communicating with an outsource software development team in India incurs a 10-12 hour gap, which means you often won’t get a response or any action taken until the next working day, even with the most attentive outsourcing partner. The language barrier isn’t a problem either. English is widely spoken, especially amongst degree-educated computer science and engineering graduates. It is the international language of business and an invaluable skill that is encouraged in Mexican workplaces and, of course, when communicating with clients. Spanish is also widely spoken, which can also be an advantage.
 
-![nearshore-software](/img/nearshore-it-software-development-solution.jpg)
+![nearshore-software](nearshore-it-software-development-solution.jpg)
 
 Source: _CCSI_
 
@@ -133,7 +133,7 @@ Mexico wasn’t always thought of as a mature and reliable partner. It is not in
 
 However, in technology, software development, help desks, and more complex solutions, such as cyber-security and machine learning, Mexico is increasingly seen as a go-to destination for American businesses. When working with outsourcing companies in Mexico, you should expect the same level of professionalism you can get at home. Agree on timescales, deliverables, and processes.
 
-Have a clear process to ensure a project stays on schedule and on budget, with responsible parties in both teams to coordinate efforts and keep the lines of communication open. As is the case with any outsource project, ensuring both sides listen to one another, ask the right questions, and work with transparency is key to delivering successful outcomes. One of the advantages of the [COATI Tech]() marketplace is that you get to pick the development team working on the project, giving you transparency and greater trust in what will be delivered from the initial conversation to completion.
+Have a clear process to ensure a project stays on schedule and on budget, with responsible parties in both teams to coordinate efforts and keep the lines of communication open. As is the case with any outsource project, ensuring both sides listen to one another, ask the right questions, and work with transparency is key to delivering successful outcomes. One of the advantages of the [COATI Tech](https://agomezguru.github.io/cti-tech) marketplace is that you get to pick the development team working on the project, giving you transparency and greater trust in what will be delivered from the initial conversation to completion.
 
 ### 6. Cost advantages of software development outsourcing to Mexico
 
@@ -163,7 +163,7 @@ Whether you are working with developers in Mexico, Brazil, Canada, India, or Ukr
 
 At the same time, in recent years, India has fallen out of favor as an outsourcing partner. Let’s take a look at why.
 
-![Guadalajara_programmers](/img/75318_Guadalajara_SiliconValley_AW_004.jpg)
+![Guadalajara_programmers](75318_Guadalajara_SiliconValley_AW_004.jpg)
 
 Source: _OZY_
 
@@ -205,6 +205,7 @@ You can see a difference in average salaries in Mexico, the USA, and the YouTeam
 Meanwhile, COATI Tech provides clients with a network of 50,000+ vetted engineers from hundreds of development agencies. The salary in that column means the money you pay to your outsourcing partner for a quality software developer from Mexico.
 
 | |Mexican developers’ salary on local job boards* | US developers’ salary for comparison | Mexican developers’ rates on COATI Tech |
+|---|:-:|:-:|:-:|
 | [NodeJS](https://youteam.io/blog/hiring-a-node-js-developer/) | USD 43,400 | USD 138,290 | USD $$$$ |
 | [AngularJS](https://youteam.io/blog/hiring-angularjs-developer/) | USD 51,241 | USD 153,016 | USD $$$$ |
 | [JavaScript](https://youteam.io/blog/fact-sheet-to-learn-before-hiring-a-javascript-developer/) | USD 49,424 | USD 169,407 | USD $$$$ |
@@ -294,9 +295,9 @@ Mexico is a safe, secure, and reliable software development partner. With the ad
 
 Some of the most important advantages of software development outsourcing to Mexico:
 
-- _Talent:_ Huge investments in high school and university education are producing 130,000+ technology graduates every year.
-- _Infrastructure:_ A strong commitment to technology and business parks is attracting local and international companies. Mexico also benefits from a mature infrastructure and over 300 flights from the U.S. daily.
-- _Collaboration:_ Real-time communication is possible from every U.S. state, making it easier to work with remote teams.
-- _Low rates of staff attrition:_ Software companies look after staff, which means you benefit from working with the same teams on a project from start to finish.  
-- _Professional service delivery:_ Benefit from and expect the same high standards of professional service in Mexico that you get in the U.S.
-- _Cost advantages:_ Competitive costs make it easier to scale a large team quickly, giving you much greater value for money in Mexico.
+- __Talent:__ Huge investments in high school and university education are producing 130,000+ technology graduates every year.
+- __Infrastructure:__ A strong commitment to technology and business parks is attracting local and international companies. Mexico also benefits from a mature infrastructure and over 300 flights from the U.S. daily.
+- __Collaboration:__ Real-time communication is possible from every U.S. state, making it easier to work with remote teams.
+- __Low rates of staff attrition:__ Software companies look after staff, which means you benefit from working with the same teams on a project from start to finish.  
+- __Professional service delivery:__ Benefit from and expect the same high standards of professional service in Mexico that you get in the U.S.
+- __Cost advantages:__ Competitive costs make it easier to scale a large team quickly, giving you much greater value for money in Mexico.
